@@ -1,0 +1,14 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1476894704;s:6:"expire";i:1476898304;s:4:"tags";s:187:"c40_BLOCK_HTML,c40_CATALOG_PRODUCT_693,c40_CATALOG_PRODUCT,c40_CATALOG_PRODUCT_688,c40_CATALOG_PRODUCT_689,c40_CATALOG_PRODUCT_690,c40_CATALOG_PRODUCT_691,c40_CATALOG_PRODUCT_692,c40_MAGE";}
+<div class="price-box price-final_price" data-role="priceBox" data-product-id="693">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="product-price-693"                data-price-amount="28"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$28.00</span>    </span>
+        </span>
+
+</div>

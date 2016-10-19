@@ -1,0 +1,14 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1476894658;s:6:"expire";i:1476898258;s:4:"tags";s:427:"c40_BLOCK_HTML,c40_CATALOG_PRODUCT_467,c40_CATALOG_PRODUCT,c40_CATALOG_PRODUCT_452,c40_CATALOG_PRODUCT_453,c40_CATALOG_PRODUCT_454,c40_CATALOG_PRODUCT_455,c40_CATALOG_PRODUCT_456,c40_CATALOG_PRODUCT_457,c40_CATALOG_PRODUCT_458,c40_CATALOG_PRODUCT_459,c40_CATALOG_PRODUCT_460,c40_CATALOG_PRODUCT_461,c40_CATALOG_PRODUCT_462,c40_CATALOG_PRODUCT_463,c40_CATALOG_PRODUCT_464,c40_CATALOG_PRODUCT_465,c40_CATALOG_PRODUCT_466,c40_MAGE";}
+<div class="price-box price-final_price" data-role="priceBox" data-product-id="467">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="product-price-467"                data-price-amount="24"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$24.00</span>    </span>
+        </span>
+
+</div>
